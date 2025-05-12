@@ -1,1 +1,1 @@
-# array-and-pointer-arithmetic-
+# arrays-and-pointer-arithmetic-
